@@ -2,6 +2,7 @@
 
 This file is used to list changes made in each version of the tomcat cookbook.
 alok
+abhinav
 ## 2.3.3 (2016-10-24)
 - Depend on the latest compat_resource
 - Remove a few LWRP-isms that were pointed out
